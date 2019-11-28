@@ -1,3 +1,7 @@
+post processing
+利用skybox處開始展現fog
+
+
 KinoFog
 =======
 
